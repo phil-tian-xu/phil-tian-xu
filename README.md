@@ -1,6 +1,6 @@
 ### Hi, I'm Phil (Tian) Xu 👋
 
-- 🎓 Incoming PhD in Finance at the Chinese University of Hong Kong  
+- 🎓 PhD Student in Finance at The Chinese University of Hong Kong  
 
 - 📊 Focus: Empirical Asset Pricing, Machine Learning, Quantitative Research
 
